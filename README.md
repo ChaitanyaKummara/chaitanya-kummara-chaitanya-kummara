@@ -81,7 +81,7 @@ I specialize in **Safety-Critical Lighting (ADB)**, **Ultrasonic Sensing**, and 
     *   Developed a Python GUI with **QR-Code Project Selection** and automated Pass/Fail reporting.
 *   **Impact:** Enabled plant-wide repeatability and reliability in hardware validation.
 
-### 6. Cluster Instrumentation ECU 📉
+### 6. Cluster Instrumentation ECU 🏎️
 **Role:** Firmware Engineer  
 **Hardware:** PIC18 Series | **Protocol:** I2C & CAN
 
@@ -91,7 +91,6 @@ I specialize in **Safety-Critical Lighting (ADB)**, **Ultrasonic Sensing**, and 
     *   Built a robust **I2C driver** for the BU91799KV display driver.
     *   Integrated **DS1307 RTC** for precise timekeeping.
 *   **Impact:** Delivered a stable, flicker-free dashboard experience.
-
 ---
 
 ### 📫 Let's Connect!
